@@ -1,3 +1,3 @@
-# DRF
-#This project is for beginners to get started with the Django Rest Framework for building API's with Django
 # DRF-API
+#This project involves the Django Rest Framework for building API's with Django.
+
