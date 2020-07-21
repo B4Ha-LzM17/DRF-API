@@ -1,3 +1,3 @@
 # DRF-API
-##This project involves the Django Rest Framework for building API's with Django.
+An introduction to building an API with Django and the Django Rest Framework 
 
